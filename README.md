@@ -1,4 +1,4 @@
-#  AI Loan Approval System
+#   Loan Approval System
 
 > *"Your intelligent gateway to secure and seamless loan processing."*
 
